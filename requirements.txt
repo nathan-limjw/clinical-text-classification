@@ -1,0 +1,8 @@
+transformers
+datasets
+peft
+scikit-learn
+pandas
+matplotlib
+seaborn
+tqdm
